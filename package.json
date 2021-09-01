@@ -1,0 +1,25 @@
+{
+  "name": "09-01-21",
+  "version": "1.0.0",
+  "description": "- More on NPM\r - Intro to Constructors",
+  "main": "movies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QFults/09-01-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QFults/09-01-21/issues"
+  },
+  "homepage": "https://github.com/QFults/09-01-21#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2",
+    "inquirer": "^8.1.2"
+  }
+}
